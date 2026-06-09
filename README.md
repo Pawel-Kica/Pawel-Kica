@@ -31,9 +31,6 @@
 ---
 <div align="center">
 
-   ![Using technologies distribution](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawel-Kica&langs_count=4&layout=compact&theme=dracula&hide_border=true)
-   
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pawel-Kica&show_icons=true&hide_border=true&theme=dracula&count_private=true) 
    [![Streaks](https://github-readme-streak-stats.herokuapp.com?user=Pawel-Kica&theme=dracula&border=DD272700)](https://git.io/streak-stats)
    
    ![Commits stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawel-Kica&theme=dracula)
