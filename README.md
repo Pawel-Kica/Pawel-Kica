@@ -12,8 +12,8 @@ I write **[Ship Today](https://shiptoday.substack.com/)**, practical lessons on 
 
 Every public ship gets a post. The repo is the proof, the post is the lesson.
 
-- **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - local browser dashboard for your Claude Code usage. Built and shipped in one evening ([the post](https://shiptoday.substack.com/p/i-shipped-my-first-public-project)).
-- **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Claude Code's memory replaced with markdown you own: one file per fact, a one-line index in CLAUDE.md. Clone it, run one prompt, done.
+- 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - local browser dashboard for your Claude Code usage. Built and shipped in one evening ([the post](https://shiptoday.substack.com/p/i-shipped-my-first-public-project)).
+- 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Claude Code memory replaced with markdown you own, one file per fact
 
 More on the way.
 
