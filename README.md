@@ -2,7 +2,7 @@
 
 Founding engineer at a startup in Kraków. I run coding agents all day and I haven't written a line of code by hand in months. Full stack, end to end: Next.js, Django, Postgres, AWS.
 
-I write **[Ship Today](https://shiptoday.substack.com/)**, practical lessons on shipping faster as an AI-native engineer: 300 straight days of Claude Code, 100+ custom skills, and what actually survives contact with production.
+I write **[Ship Today](https://shiptoday.substack.com/)**, practical lessons on shipping faster as an AI-native engineer: 10,000 hours in Claude Code, 100+ custom skills, and what actually survives contact with production.
 
 - 1st place at HackYeah 2025, Europe's biggest hackathon
 - 1st place at HackNation 2025
