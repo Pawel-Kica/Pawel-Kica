@@ -16,6 +16,7 @@ Every public ship gets a post. The repo is the proof, the post is the lesson.
 - 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Claude Code memory replaced with markdown you own, one file per fact
 - 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Claude Desktop Projects for Claude Code: a context folder + skill, so you never re-explain
 - 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - A personal AI assistant on Telegram for the person you love, on your Claude subscription
+- 📐 **[system-design-expert](https://github.com/Pawel-Kica/system-design-expert)** - System design interview prep in Claude Code: turn any problem into a full written solution and Base + Deep architecture diagrams
 
 More on the way.
 
