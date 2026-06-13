@@ -14,7 +14,7 @@ Every public ship gets a post. The repo is the proof, the post is the lesson.
 
 - 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - Local browser dashboard for your Claude Code usage. Built and shipped in one evening ([the post](https://shiptoday.substack.com/p/i-shipped-my-first-public-project)).
 - 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Claude Code memory replaced with markdown you own, one file per fact
-- 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Claude Desktop Projects for Claude Code: a context folder + skill, so you never re-explain your setup
+- 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Claude Desktop Projects for Claude Code: a context folder + skill, so you never re-explain
 - 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - A personal AI assistant on Telegram for the person you love, on your Claude subscription
 
 More on the way.
