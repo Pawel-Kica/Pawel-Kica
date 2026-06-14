@@ -18,6 +18,7 @@ Every public ship gets a post. The repo is the proof, the post is the lesson.
 - 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - A personal AI assistant on Telegram for the person you love, on your Claude subscription
 - 📐 **[system-design-expert](https://github.com/Pawel-Kica/system-design-expert)** - System design interview prep in Claude Code: any problem into a solution + Base/Deep diagrams
 - 📝 **[prompts-that-ship](https://github.com/Pawel-Kica/prompts-that-ship)** - The prompts I actually run with coding agents: set the goal, not the steps
+- 🛠️ **[skills-that-ship](https://github.com/Pawel-Kica/skills-that-ship)** - The Claude Code skills I install and run, one `/command` each: handoff, html, afk-mode and more
 
 More on the way.
 
