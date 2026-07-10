@@ -13,7 +13,7 @@ I teach **[Claude Code 100%](https://pawelkica.com/claudecode100)**: how to driv
 Every public ship gets a post. The repo is the proof, the post is the lesson.
 
 - 💯 **[claude-code-100](https://github.com/Pawel-Kica/claude-code-100)** - Extremely useful prompts and skills for Claude Code
-- 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - Local browser dashboard for your Claude Code usage. Built and shipped in one evening.
+- 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - Local browser dashboard for your Claude Code usage.
 - 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Claude Code memory replaced with markdown you own, one file per fact
 - 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Claude Desktop Projects for Claude Code: a context folder + skill, so you never re-explain
 - 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - A personal AI assistant on Telegram for the person you love, on your Claude subscription
