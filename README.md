@@ -12,13 +12,12 @@ I teach **[Claude Code 100%](https://pawelkica.com/claudecode100)**: how to driv
 
 Every public ship gets a post. The repo is the proof, the post is the lesson.
 
+- 💯 **[claude-code-100](https://github.com/Pawel-Kica/claude-code-100)** - The prompts and skills I actually run with Claude Code
 - 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - Local browser dashboard for your Claude Code usage. Built and shipped in one evening.
 - 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Claude Code memory replaced with markdown you own, one file per fact
 - 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Claude Desktop Projects for Claude Code: a context folder + skill, so you never re-explain
 - 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - A personal AI assistant on Telegram for the person you love, on your Claude subscription
 - 📐 **[system-design-expert](https://github.com/Pawel-Kica/system-design-expert)** - System design interview prep in Claude Code: any problem into a solution + Base/Deep diagrams
-- 📝 **[prompts-that-ship](https://github.com/Pawel-Kica/prompts-that-ship)** - The prompts I actually run with coding agents: set the goal, not the steps
-- 🛠️ **[skills-that-ship](https://github.com/Pawel-Kica/skills-that-ship)** - The Claude Code skills I install and run, one `/command` each: handoff, html, afk-mode and more
 
 More on the way.
 
