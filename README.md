@@ -1,12 +1,14 @@
-![Stop overengineering. Start shipping.](images/banner.png)
+![From chat box to power user.](images/banner.png)
 
 Founding engineer at a startup in Kraków. I run coding agents all day and I haven't written a line of code by hand in months. Full stack, end to end: Next.js, Django, Postgres, AWS.
 
 I teach **[Claude Code 100%](https://pawelkica.com/claudecode100)**: how to drive coding agents like a power user and ship real projects. 10,000 hours in Claude Code, 100+ custom skills, and what actually survives contact with production.
 
-- 1st place at HackYeah 2025, Europe's biggest hackathon
-- 1st place at HackNation 2025
-- Co-leader of BRAVE AI Community Cracow
+- Founding engineer at a UK startup, building the whole product AI-native.
+- Promoted from intern to junior to senior to tech lead in 2 years at a USA fintech.
+- Co-leader of BRAVE AI Community Cracow, I run AI events for 100+ people.
+- 10,000 hours in Claude Code, top 1%, Voice Interface Expert, Top 1% Wispr Flow.
+- Won 3 hackathons in 2025, $11,000 in prize money.
 
 ## Projects shipped
 
@@ -23,7 +25,7 @@ More on the way.
 
 ## Claude Code 100%
 
-Most engineers drive Claude Code like a chat box and get a fraction of what it can do. In one weekend morning you become a power user and ship a real project doing it. 4 hours, just you and me, my whole setup on your machine. Details at **[pawelkica.com/claudecode100](https://pawelkica.com/claudecode100)**.
+Most engineers drive Claude Code like a chat box and get a fraction of what it can do. Claude Code 100% takes you from chat box to power user, and you ship a real project doing it. Details at **[pawelkica.com/claudecode100](https://pawelkica.com/claudecode100)**.
 
 ## Reach me
 
