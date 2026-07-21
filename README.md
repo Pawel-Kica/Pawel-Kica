@@ -1,18 +1,17 @@
 ![From chat box to power user.](images/banner.png)
 
-Founding engineer at a startup in Kraków. I run coding agents all day and I haven't written a line of code by hand in months. Full stack, end to end: Next.js, Django, Postgres, AWS.
+Founding engineer at a startup, running coding agents all day.
 
 I teach **[Claude Code 100%](https://pawelkica.com/claudecode100)**: how to drive coding agents like a power user and ship real projects. 10,000 hours in Claude Code, 100+ custom skills, and what actually survives contact with production.
 
 - Founding engineer at a UK startup, building the whole product AI-native.
 - Promoted from intern to junior to senior to tech lead in 2 years at a USA fintech.
 - Co-leader of BRAVE AI Community Cracow, I run AI events for 100+ people.
-- 10,000 hours in Claude Code, top 1%, Voice Interface Expert, Top 1% Wispr Flow.
+- 10,000 hours in Claude Code, Voice Interface Expert Top 1% Wispr Flow.
 - Won 3 hackathons in 2025, $11,000 in prize money.
+- One of the few people who actually hits the usage limits on Claude's Max 20x plan :)
 
 ## Projects shipped
-
-Every public ship gets a post. The repo is the proof, the post is the lesson.
 
 - 💯 **[claude-code-100](https://github.com/Pawel-Kica/claude-code-100)** - Extremely useful prompts and skills for Claude Code
 - 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - Local browser dashboard for your Claude Code usage
