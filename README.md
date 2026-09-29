@@ -25,7 +25,7 @@ I build tools that make my work better, like macOS apps, Telegram bots, Claude C
 
 ## Biohacking
 
-- 🌙 **[Biohacking tips](https://pawelkica.com/biohacking)** - Small things I do to sleep better and use my phone less
+- 🌙 **[Healthmaxxing](https://pawelkica.com/biohacking)** - My phone turns red at 6 pm
 - 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - Bryan Johnson's protocol, in your Telegram
 
 ## Tools I use daily
