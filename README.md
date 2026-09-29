@@ -38,7 +38,7 @@ I build tools that make my work better, like macOS apps, Telegram bots, Claude C
 
 - 🤝 Co-leader of BRAVE AI Community Cracow, I run AI events for 100+ people.
 - 🎙️ Voice Interface Expert, Top 1% on Wispr Flow.
-- 🏆 Won 3 hackathons in 2025, $11,000 in prize money.
+- 🏆 Won 3 hackathons, $11,000 in prize money.
 - 🔋 Claude Code enthusiast, running agents to automate my life
 - 📬 I run the [Claude Code 100%](https://pawelkica.com/claudecode100) newsletter.
 
@@ -46,4 +46,4 @@ I build tools that make my work better, like macOS apps, Telegram bots, Claude C
 
 - [LinkedIn](https://www.linkedin.com/in/pawel-kica/)
 - [YouTube](https://www.youtube.com/@pawel_kica)
-- [pawel.kica.cc@gmail.com](mailto:pawel.kica.cc@gmail.com)
+- [Email](mailto:pawel.kica.cc@gmail.com)
