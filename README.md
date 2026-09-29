@@ -1,31 +1,44 @@
-![From chat box to power user.](images/banner.png)
+# Hi, I'm Paweł 👋
 
-Founding engineer at a startup, running coding agents all day.
+📍 **Kraków ↔ London** | 🛠️ **Builder** | 🚀 **Founding engineer at a UK startup**
 
-I teach **[Claude Code 100%](https://pawelkica.com/claudecode100)**: how to drive coding agents like a power user and ship real projects. 10,000 hours in Claude Code, 100+ custom skills, and what actually survives contact with production.
+I build tools that make my work better, like macOS apps, Telegram bots, Claude Code improvements and more. Everything is open source and omakase style, so fork it or write to me if you'd like something changed.
 
-- Founding engineer at a UK startup, building the whole product AI-native.
-- Promoted from intern to junior to senior to tech lead in 2 years at a USA fintech.
-- Co-leader of BRAVE AI Community Cracow, I run AI events for 100+ people.
-- 10,000 hours in Claude Code, Voice Interface Expert Top 1% Wispr Flow.
-- Won 3 hackathons in 2025, $11,000 in prize money.
-- One of the few people who actually hits the usage limits on Claude's Max 20x plan :)
+## Apps
 
-## Projects shipped
+- 🖍️ **[Highlighter](https://pawelkica.com/highlighter)** - Draw on any screen while you present
+- ✋ **[Simple Block](https://pawelkica.com/simpleblock)** - Type a reason before you open a distracting app
+- 🌄 **[Momentum Clone](https://pawelkica.com/momentum)** - Momentum's new tab, with your own photos
 
-- 💯 **[claude-code-100](https://github.com/Pawel-Kica/claude-code-100)** - Extremely useful prompts and skills for Claude Code
-- 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - Local browser dashboard for your Claude Code usage
-- 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Claude Code memory replaced with markdown you own, one file per fact
-- 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Claude Desktop Projects for Claude Code: a context folder + skill, so you never re-explain
-- 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - A personal AI assistant on Telegram for the person you love, on your Claude subscription
-- 📐 **[system-design-expert](https://github.com/Pawel-Kica/system-design-expert)** - System design interview prep in Claude Code: any problem into a solution + Base/Deep diagrams
+## Telegram bots
 
-More on the way.
+- 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - Bryan Johnson's protocol, in your Telegram
+- 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - A personal AI assistant for the person you love
+- 🤖 **[claude-code-telegram](https://github.com/Pawel-Kica/claude-code-telegram)** - My fork of the Claude Code Telegram bot, all my bots run on it
 
-## Claude Code 100%
+## Claude Code
 
-Most engineers drive Claude Code like a chat box and get a fraction of what it can do. Claude Code 100% takes you from chat box to power user, and you ship a real project doing it. Details at **[pawelkica.com/claudecode100](https://pawelkica.com/claudecode100)**.
+- 💯 **[claude-code-100](https://github.com/Pawel-Kica/claude-code-100)** - Prompts and skills I use every day
+- 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - Your Claude Code usage in a local dashboard
+- 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Claude Code memory as markdown you own
+- 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Claude Desktop Projects, for Claude Code
+- 📐 **[system-design-expert](https://github.com/Pawel-Kica/system-design-expert)** - System design interview prep with diagrams
+
+## Tools I use daily
+
+- 🧵 **[T3 Code](https://github.com/pingdotgg/t3code)** - The app I run all my coding agents in
+- 🖥️ **[cmux](https://github.com/manaflow-ai/cmux)** - Terminal with vertical tabs and notifications for agents
+
+## A bit about me
+
+- 🤝 Co-leader of BRAVE AI Community Cracow, I run AI events for 100+ people.
+- 🎙️ Voice Interface Expert, Top 1% on Wispr Flow.
+- 🏆 Won 3 hackathons in 2025, $11,000 in prize money.
+- 🔋 Claude Code enthusiast, one of the few who actually hit the usage limits on Claude's Max 20x plan :)
+- 📬 I run the [Claude Code 100%](https://pawelkica.com/claudecode100) newsletter.
 
 ## Reach me
 
-[Claude Code 100%](https://pawelkica.com/claudecode100) · [LinkedIn](https://www.linkedin.com/in/pawel-kica/) · [pawel.kica.cc@gmail.com](mailto:pawel.kica.cc@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/pawel-kica/)
+- [YouTube](https://www.youtube.com/@pawel_kica)
+- [pawel.kica.cc@gmail.com](mailto:pawel.kica.cc@gmail.com)
