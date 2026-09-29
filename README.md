@@ -25,7 +25,7 @@ I build tools that make my work better, like macOS apps, Telegram bots, Claude C
 
 ## Biohacking
 
-- 🌙 **[How to stay healthy](https://pawelkica.com/biohacking)** - Tips that stuck
+- 🌙 **[How to stay healthy](https://pawelkica.com/biohacking)** - Live to 100
 - 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - Blueprint in your Telegram
 
 ## Tools I use daily
@@ -33,6 +33,7 @@ I build tools that make my work better, like macOS apps, Telegram bots, Claude C
 - 🧵 **[T3 Code](https://github.com/pingdotgg/t3code)** - Alternative to terminal for agents
 - 🖥️ **[cmux](https://github.com/manaflow-ai/cmux)** - Terminal with vertical tabs
 - 🗣️ **[Wispr Flow](https://wisprflow.ai)** - I talk 150wpm instead of typing
+- 🔍 **[Raycast](https://www.raycast.com)** - Spotlight, but way better
 
 ## A bit about me
 
