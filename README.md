@@ -26,7 +26,7 @@ I build tools that make my work better, like macOS apps, Telegram bots, Claude C
 ## Biohacking
 
 - 🌙 **[How to stay healthy](https://pawelkica.com/biohacking)** - Small tips that actually stuck
-- 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - His Blueprint, in your Telegram
+- 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - Blueprint in your Telegram
 
 ## Tools I use daily
 
