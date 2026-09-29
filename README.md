@@ -6,33 +6,33 @@ I build tools that make my work better, like macOS apps, Telegram bots, Claude C
 
 ## Apps
 
-- 🖍️ **[Highlighter](https://pawelkica.com/highlighter)** - Draw on any screen while you present
-- ✋ **[Simple Block](https://pawelkica.com/simpleblock)** - Type a reason before you open a distracting app
-- 🌄 **[Momentum Clone](https://pawelkica.com/momentum)** - Momentum's new tab, with your own photos
+- 🖍️ **[Highlighter](https://pawelkica.com/highlighter)** - Draw on your screen as you present
+- ✋ **[Simple Block](https://pawelkica.com/simpleblock)** - Stops me opening apps on autopilot
+- 🌄 **[Momentum Clone](https://pawelkica.com/momentum)** - A new tab with your own photos
 
 ## Telegram bots
 
-- 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - A personal AI assistant for the person you love
-- 🤖 **[claude-code-telegram](https://github.com/Pawel-Kica/claude-code-telegram)** - My fork of the Claude Code Telegram bot, all my bots run on it
+- 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - An AI assistant for your partner
+- 🤖 **[claude-code-telegram](https://github.com/Pawel-Kica/claude-code-telegram)** - My fork, all my bots run on it
 
 ## Claude Code
 
 - 💯 **[claude-code-100](https://github.com/Pawel-Kica/claude-code-100)** - Prompts and skills I use every day
-- 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - Your Claude Code usage in a local dashboard
-- 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Claude Code memory as markdown you own
-- 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Claude Desktop Projects, for Claude Code
-- 📐 **[system-design-expert](https://github.com/Pawel-Kica/system-design-expert)** - System design interview prep with diagrams
+- 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - See how much your agents cost
+- 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Memory as markdown files you own
+- 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Desktop Projects, but in the CLI
+- 📐 **[system-design-expert](https://github.com/Pawel-Kica/system-design-expert)** - Interview prep with diagrams
 
 ## Biohacking
 
-- 🌙 **[How to stay healthy](https://pawelkica.com/biohacking)** - My phone turns red at 6 pm
-- 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - Bryan Johnson's Blueprint, in your Telegram
+- 🌙 **[How to stay healthy](https://pawelkica.com/biohacking)** - Small tips that actually stuck
+- 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - His Blueprint, in your Telegram
 
 ## Tools I use daily
 
-- 🧵 **[T3 Code](https://github.com/pingdotgg/t3code)** - The app I run all my coding agents in
+- 🧵 **[T3 Code](https://github.com/pingdotgg/t3code)** - Alternative to terminal, I run all my coding agents in it
 - 🖥️ **[cmux](https://github.com/manaflow-ai/cmux)** - Terminal with vertical tabs and notifications for agents
-- 🗣️ **[Wispr Flow](https://wisprflow.ai)** - Voice dictation, I talk instead of typing
+- 🗣️ **[Wispr Flow](https://wisprflow.ai)** - Voice dictation, I talk 150wpm instead of typing
 
 ## A bit about me
 
