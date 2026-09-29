@@ -12,7 +12,6 @@ I build tools that make my work better, like macOS apps, Telegram bots, Claude C
 
 ## Telegram bots
 
-- 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - Bryan Johnson's protocol, in your Telegram
 - 💝 **[ai-for-your-girlfriend](https://github.com/Pawel-Kica/ai-for-your-girlfriend)** - A personal AI assistant for the person you love
 - 🤖 **[claude-code-telegram](https://github.com/Pawel-Kica/claude-code-telegram)** - My fork of the Claude Code Telegram bot, all my bots run on it
 
@@ -24,17 +23,23 @@ I build tools that make my work better, like macOS apps, Telegram bots, Claude C
 - 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Claude Desktop Projects, for Claude Code
 - 📐 **[system-design-expert](https://github.com/Pawel-Kica/system-design-expert)** - System design interview prep with diagrams
 
+## Biohacking
+
+- 🌙 **[Biohacking tips](https://pawelkica.com/biohacking)** - Small things I do to sleep better and use my phone less
+- 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - Bryan Johnson's protocol, in your Telegram
+
 ## Tools I use daily
 
 - 🧵 **[T3 Code](https://github.com/pingdotgg/t3code)** - The app I run all my coding agents in
 - 🖥️ **[cmux](https://github.com/manaflow-ai/cmux)** - Terminal with vertical tabs and notifications for agents
+- 🗣️ **[Wispr Flow](https://wisprflow.ai)** - Voice dictation, I talk instead of typing
 
 ## A bit about me
 
 - 🤝 Co-leader of BRAVE AI Community Cracow, I run AI events for 100+ people.
 - 🎙️ Voice Interface Expert, Top 1% on Wispr Flow.
 - 🏆 Won 3 hackathons in 2025, $11,000 in prize money.
-- 🔋 Claude Code enthusiast, one of the few who actually hit the usage limits on Claude's Max 20x plan :)
+- 🔋 Claude Code enthusiast, running agents to automate my life
 - 📬 I run the [Claude Code 100%](https://pawelkica.com/claudecode100) newsletter.
 
 ## Reach me
