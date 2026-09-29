@@ -2,7 +2,7 @@
 
 📍 **Kraków ↔ London** | 🛠️ **Builder** | 🚀 **Founding engineer at a UK startup**
 
-I build tools that make my work better, like macOS apps, Telegram bots, Claude Code improvements and more. Everything is open source and omakase style, so fork it or write to me if you'd like something changed.
+I build tools that make my work better, like macOS apps, Telegram bots, Claude Code improvements and more. Everything is open source and omakase style, so fork it or write to me if you have any ideas!
 
 ## Apps
 
