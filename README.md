@@ -2,7 +2,7 @@
 
 📍 **Kraków ↔ London** | 🛠️ **Builder** | 🚀 **Founding engineer at a UK startup**
 
-I build tools that make my work bette - omakase style, so tailored to me, feel free to fork it :)
+I build tools that make my work better - omakase style, so tailored to me, feel free to fork it :)
 
 ## Apps
 
