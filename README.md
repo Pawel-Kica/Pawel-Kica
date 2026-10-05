@@ -41,7 +41,7 @@ I build tools that make my work better - omakase style, so tailored to me, feel 
 - 🎙️ Voice Interface Expert, Top 1% on Wispr Flow.
 - 🏆 Won 3 hackathons, $11,000 in prize money.
 - 🔋 Claude Code enthusiast, running agents to automate my life
-- 📬 I run the [Claude Code 100%](https://pawelkica.com/claudecode100) newsletter.
+- 📬 I run the [AI Coding 100%](https://pawelkica.com/aicoding100) newsletter.
 
 ## Reach me
 
