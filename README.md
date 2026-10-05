@@ -4,7 +4,7 @@
 
 I build tools that make my work better - omakase style, so tailored to me, feel free to fork it :)
 
-[![AI Coding 100%: Ship your ideas. Stop babysitting AI.](aicoding100.png)](https://pawelkica.com/aicoding100)
+<a href="https://pawelkica.com/aicoding100"><img src="aicoding100.png" width="840" height="112" alt="AI Coding 100%: Ship your ideas. Stop babysitting AI."></a>
 
 ## Apps
 
