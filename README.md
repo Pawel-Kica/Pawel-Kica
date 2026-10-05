@@ -4,6 +4,8 @@
 
 I build tools that make my work better - omakase style, so tailored to me, feel free to fork it :)
 
+[![AI Coding 100%: Ship your ideas. Stop babysitting AI.](aicoding100.png)](https://pawelkica.com/aicoding100)
+
 ## Apps
 
 - 🖍️ **[Highlighter](https://pawelkica.com/highlighter)** - Draw on your screen
