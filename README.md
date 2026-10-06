@@ -8,9 +8,9 @@ I build tools that make my work better - omakase style, so tailored to me, feel 
 
 ## Apps
 
+- 🌄 **[Doorway Extension](https://pawelkica.com/doorway)** - New tab with your photos
+- 🚪 **[Doorway Desktop](https://pawelkica.com/doorway-desktop)** - Block distracting apps
 - 🖍️ **[Highlighter](https://pawelkica.com/highlighter)** - Draw on your screen
-- ✋ **[Simple Block](https://pawelkica.com/simpleblock)** - Block distracting apps
-- 🌄 **[Momentum Clone](https://pawelkica.com/momentum)** - New tab with your photos
 
 ## Telegram bots
 
