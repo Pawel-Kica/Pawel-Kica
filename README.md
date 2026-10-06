@@ -8,9 +8,10 @@ I build tools that make my work better - omakase style, so tailored to me, feel 
 
 ## Apps
 
-- 🌄 **[Doorway Extension](https://pawelkica.com/doorway)** - New tab with your photos
-- 🚪 **[Doorway Desktop](https://pawelkica.com/doorway-desktop)** - Block distracting apps
-- 🖍️ **[Highlighter](https://pawelkica.com/highlighter)** - Draw on your screen
+- 🚪 **[Doorway Desktop](https://github.com/Pawel-Kica/doorway-desktop)** - Block distracting apps on macOS
+- 🌄 **[Doorway Extension](https://github.com/Pawel-Kica/doorway-extension)** - New tab with your photos
+- ⏱️ **[Timer](https://github.com/Pawel-Kica/timer)** - Track your work hours
+- 🖍️ **[Highlighter](https://github.com/Pawel-Kica/highlighter)** - Draw on your screen
 
 ## Telegram bots
 
@@ -28,7 +29,7 @@ I build tools that make my work better - omakase style, so tailored to me, feel 
 ## Biohacking
 
 - 🌙 **[How to stay healthy](https://pawelkica.com/biohacking)** - Live to 100 years
-- 🧬 **[Bryan Johnson AI](https://pawelkica.com/bryanjohnsonai)** - Blueprint in your Telegram
+- 🧬 **[Bryan Johnson AI](https://github.com/Pawel-Kica/bryan-johnson-ai)** - Blueprint in your Telegram
 
 ## Tools I use daily
 
