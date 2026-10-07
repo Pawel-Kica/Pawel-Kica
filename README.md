@@ -20,7 +20,7 @@ I build tools that make my work better - omakase style, so tailored to me, feel 
 
 ## Claude Code
 
-- 💯 **[claude-code-100](https://github.com/Pawel-Kica/claude-code-100)** - My daily prompts and skills
+- 💯 **[ai-coding-100](https://github.com/Pawel-Kica/ai-coding-100)** - My daily prompts and skills
 - 📊 **[ccusage-dashboard](https://github.com/Pawel-Kica/ccusage-dashboard)** - What your agents cost
 - 🧠 **[claude-simple-memory](https://github.com/Pawel-Kica/claude-simple-memory)** - Memory as markdown files
 - 🗂️ **[claude-simple-projects](https://github.com/Pawel-Kica/claude-simple-projects)** - Desktop Projects in the CLI
