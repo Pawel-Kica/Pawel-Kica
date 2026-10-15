@@ -10,8 +10,8 @@ I build tools that make my work better - omakase style, so tailored to me, feel 
 
 - 🚪 **[Doorway Desktop](https://github.com/Pawel-Kica/doorway-desktop)** - Block distracting apps on macOS
 - 🌄 **[Doorway Extension](https://github.com/Pawel-Kica/doorway-extension)** - New tab with your photos
-- ⏱️ **[Timer](https://github.com/Pawel-Kica/timer)** - Track your work hours
 - 🖍️ **[Highlighter](https://github.com/Pawel-Kica/highlighter)** - Draw on your screen
+- ⏱️ **[Timer](https://github.com/Pawel-Kica/timer)** - Track your work hours
 
 ## Telegram bots
 
